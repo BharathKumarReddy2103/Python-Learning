@@ -1,0 +1,6 @@
+print("Company : ABC Technologies")
+print("Employee : Bharath")
+print("Role : Senior DevSecOps Engineer")
+print("Experience : 8.6 Years")
+print("Learning : Python")
+print("Target : FastAPI Developer")
