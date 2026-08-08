@@ -1,0 +1,7 @@
+CI/CD Deployment Report
+-----------------------
+Application: Roboshop
+Environment: Production
+Platform: Kubernetes
+Status: Successful
+Image: roboshop/frontend:1.0

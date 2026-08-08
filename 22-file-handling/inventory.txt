@@ -1,0 +1,5 @@
+web01
+web02
+app01
+db01
+redis01
