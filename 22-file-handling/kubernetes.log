@@ -1,0 +1,4 @@
+INFO: Pod frontend started
+INFO: Pod backend started
+ERROR: Pod payment failed
+INFO: Pod database running

@@ -1,4 +1,4 @@
-file = open("server.txt", "w")
+file = open("servers.txt", "w")
 
 file.close()
 
