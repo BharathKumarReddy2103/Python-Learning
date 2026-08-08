@@ -1,0 +1,4 @@
+INFO: Deployment started
+INFO: Docker image pulled
+INFO: Kubernetes deployment started
+INFO: Deployment completed successfully
