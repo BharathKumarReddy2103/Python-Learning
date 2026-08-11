@@ -1,7 +1,3 @@
-You're right. You asked for **only the Lesson 25 `README.md` content in one single copy-paste-ready code block**, like we established earlier. I added unnecessary explanation around it.
-
-Here is the correct format — **one block, nothing else inside it**:
-
 ````markdown
 # Virtual Environment
 
