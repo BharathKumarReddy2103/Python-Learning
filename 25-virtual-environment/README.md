@@ -81,6 +81,7 @@ This allows each project to manage its own:
 ├── requirements.txt
 ├── .gitignore
 └── README.md
+````
 
 ---
 
