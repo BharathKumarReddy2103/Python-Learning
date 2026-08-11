@@ -721,6 +721,3 @@ JSON handling is an important Python skill because modern DevOps tools, cloud AP
 **Bharath Kumar Reddy N.**
 
 Senior DevSecOps Engineer | AWS | Kubernetes | DevSecOps | Python | Learning Software Development for DevOps Automation
-
-```
-```
