@@ -1,9 +1,10 @@
 import subprocess
+import sys
 
 result = subprocess.run(
-    ["python", "-m", "pip", "--version"],
+    [sys.executable, "-m", "pip", "--version"],
     capture_output=True,
     text=True
 )
 
-print(result.stdout)
+print(result.stdout.strip())

@@ -1,9 +1,6 @@
 import subprocess
+import sys
 
-result = subprocess.run(
-    ["python", "-m", "pip", "list"],
-    capture_output=True,
-    text=True
+subprocess.run(
+    [sys.executable, "-m", "pip", "list"]
 )
-
-print(result.stdout)
