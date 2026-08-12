@@ -74,15 +74,16 @@ JSON data maps naturally to Python data types.
 
 Example:
 
-```text
 JSON:
 
+```text
 {
     "name": "web01",
     "port": 8080,
     "healthy": true,
     "backup": null
 }
+```
 
 Python representation:
 
