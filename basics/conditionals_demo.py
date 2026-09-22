@@ -1,8 +1,8 @@
-average = 5
-if average >= 80:
+average = 85
+if average > 80:
     print("Grade A")
-elif 60 <= average < 80:
+if 60 < average <= 80:
     print("Grade B")
-else:
+if average < 60:
     print("Grade C")
-print("Grading Completed.")
+print("Grading completed.")
