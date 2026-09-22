@@ -1,9 +1,8 @@
-x = 20
-
-if x > 4:
-    x = x + 1
-    print(x)
+average = 5
+if average >= 80:
+    print("Grade A")
+elif 60 <= average < 80:
+    print("Grade B")
 else:
-    x = x - 1
-    print(x)
-print("completed")
+    print("Grade C")
+print("Grading Completed.")
